@@ -1,9 +1,9 @@
 {
   "name": "مكتب المستشار أحمد الألفي",
   "short_name": "المحامي",
-  "start_url": "index.html",
+  "description": "نظام الإدارة القانونية الذكي",
+  "start_url": "/lawyer-app/index.html",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#1e3a8a",
   "icons": [
