@@ -1,15 +1,17 @@
 {
   "name": "مكتب المستشار أحمد الألفي",
-  "short_name": "المحامي الذكي",
-  "start_url": ".",
+  "short_name": "المحامي",
+  "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#1e3a8a",
-  "theme_color": "#c5a059",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
   "icons": [
     {
       "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
